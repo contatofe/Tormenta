@@ -1,0 +1,20 @@
+musicas = {
+    'Canção Assustadora em Massa': 'Como canção assustadora, mas afeta todas as criaturas que você escolher dentro do alcance. Pré-requisito: canção assustadora, 4º nível.',
+    'Canção Apavorante': 'Como canção assustadora, mas se a vítima falhar fica apavorada. Pré-requisito: canção assustadora, 4º nível.',
+    'Fascinar': 'Você pode fascinar uma criatura à sua escolha. Faça um teste de Atuação oposto por um teste de Vontade do alvo. Em caso de sucesso, a criatura fica fascinada pelo tempo que você continuar a música (máximo 1 minuto). Se você falhar, o alvo fica imune a este efeito por um dia. Uma criatura fascinada não pode realizar ações e sofre penalidade de -4 em testes de Percepção. Uma ameaça óbvia contra a criatura fascinada cancela este efeito.',
+    'Fascinar em Massa': 'Como fascinar, mas afeta todas as criaturas que você escolher dentro do alcance. Pré-requisito: sugestão.',
+    'Inspirar Competência': 'Você e seus aliados recebem um bônus de +2 em testes de perícia.',
+    'Inspirar Competência Aprimorada': 'O bônus de inspirar competência aumenta para +4. Pré-requisito: inspirar competência, 4º nível.',
+    'Inspirar Competência Maior': 'O bônus de inspirar competência aumenta para +6. Pré-requisito: inspirar competência aprimorada.',
+    'Inspirar Coragem': 'Você e seus aliados recebem +1 em jogadas de ataque, dano e testes de resistência contra medo.',
+    'Inspirar Coragem Aprimorada': 'O bônus de inspirar coragem aumenta para +2. Pré-requisito: inspirar coragem, 4º nível.',
+    'Inspirar Coragem Maior': 'O bônus de inspirar coragem aumenta para +3. Pré-requisito: inspirar coragem aprimorada.',
+    'Inspirar Grandeza': 'Você ou um aliado recebe 10 pontos de vida temporários, e +2 em jogadas de ataque e testes de Fortitude. Pré-requisito: inspirar coragem aprimorada.',
+    'Inspirar Heroísmo': 'Você ou um aliado recebe +4 na classe de armadura e testes de resistência. Pré-requisito: inspirar coragem aprimorada.',
+    'Melodia Libertadora': 'Um aliado à sua escolha recebe o efeito da magia remover encantamento. Pré-requisito: melodia revigorante aprimorada.',
+    'Melodia Revigorante': 'Você e todos os seus aliados curam 2d6 pontos de dano.',
+    'Melodia Revigorante Aprimorada': 'Você e seus aliados curam 4d6 pontos de dano. Pré-requisitos: melodia revigorante, 4º nível.',
+    'Melodia Revigorante Maior': 'Você e seus aliados curam 6d6 pontos de dano. Pré-requisito: melodia revigorante aprimorada.',
+    'Sugestão': 'Você causa o efeito da magia sugestão a uma criatura que já esteja fascinada. O alvo tem direito a um teste de Vontade (CD 10 + metade do seu nível + modificador de Carisma) para evitar o efeito. Esta habilidade não conta como uma ameaça contra a criatura fascinada, e mesmo que ela resista você pode tentar novamente (desde que ela ainda esteja fascinada, e gastando mais uma ação padrão e um uso diário de música de bardo). Pré-requisito: fascinar, 4º nível.',
+    'Sugestão em Massa': 'Como sugestão, mas afeta todas as criaturas que você escolher dentro do alcance. Pré-requisito: fascinar em massa.'
+}
