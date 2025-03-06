@@ -62,7 +62,7 @@ class Personagem:
 
     graduacao_nao_treinada = [0, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10]
 
-    def __init__(self, nome, forca, destreza, constituicao, inteligencia, sabedoria, carisma, raca, classe, nivel, habilidade='inteligencia', habilidade2 = 'destreza', pericia1 = 0, pericia2 = 0, pericia3 = 0, pericia4 = 0, pericia5 = 0, pericia6 = 0, deformidade_lefou = 0, tipo_oficio = 0, conhecimentos = 0, linguagem = 0):
+    def __init__(self, nome, forca, destreza, constituicao, inteligencia, sabedoria, carisma, raca, classe, nivel, habilidade='inteligencia', habilidade2 = 'destreza', pericia1 = 0, pericia2 = 0, pericia3 = 0, pericia4 = 0, pericia5 = 0, pericia6 = 0, deformidade_lefou = 0, tipo_oficio = 0, conhecimentos = 0, linguagem = 0, img = None):
         self.nome = nome
 
         # infos gerais
@@ -94,6 +94,8 @@ class Personagem:
         self.tipo_oficio = tipo_oficio
         self.linguagem = linguagem
         self.conhecimentos = conhecimentos
+
+        self.img = img
 
         # Raça
         if raca:
